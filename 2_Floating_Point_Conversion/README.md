@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-lab2_fpcvt/
+2_Floating_Point_Conversion/
 ├── README.md           # This file
 ├── src/
 │   └── FPCVT.v         # Main floating point converter module
